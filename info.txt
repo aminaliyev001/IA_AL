@@ -1,0 +1,2 @@
+matplotlib installed
+sqllite3 installed
